@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_IO2", "TDD_IO2\TDD_IO2.csproj", "{9319BABD-1758-4E1E-888D-8DFAF5BC65E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_IO2_Test", "TDD_IO2_Test\TDD_IO2_Test.csproj", "{581B52DB-C834-4500-AE7A-E48EBA27A8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9319BABD-1758-4E1E-888D-8DFAF5BC65E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9319BABD-1758-4E1E-888D-8DFAF5BC65E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9319BABD-1758-4E1E-888D-8DFAF5BC65E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9319BABD-1758-4E1E-888D-8DFAF5BC65E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581B52DB-C834-4500-AE7A-E48EBA27A8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581B52DB-C834-4500-AE7A-E48EBA27A8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581B52DB-C834-4500-AE7A-E48EBA27A8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581B52DB-C834-4500-AE7A-E48EBA27A8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
